@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebadcd7e-47db-4b01-ba37-4a5edd2ea84b" name="默认更改列表" comment="" />
+    <list default="true" id="ebadcd7e-47db-4b01-ba37-4a5edd2ea84b" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tdong.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UploadFile.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/UploadFile.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +16,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1p9B6xz4MNeGhwZP6tOBoRGYY5S" />
@@ -35,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614585253648</updated>
-      <workItem from="1614585254815" duration="1934000" />
+      <workItem from="1614585254815" duration="3186000" />
     </task>
     <servers />
   </component>
@@ -43,10 +53,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="745" y="239" key="NewPhpClassDialog" timestamp="1614586871387">
+    <state x="745" y="239" key="NewPhpClassDialog" timestamp="1614588944326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="745" y="239" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614586871387" />
+    <state x="745" y="239" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614588944326" />
     <state x="775" y="442" key="NewPhpFileDialog" timestamp="1614586862567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
