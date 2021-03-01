@@ -1,0 +1,21 @@
+{
+    "name": "mpchruirui888/uploadfile",
+    "description": "tdongpppppcomposer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "天冬",
+            "email": "1549431732@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "src/"
+        }
+    }
+}

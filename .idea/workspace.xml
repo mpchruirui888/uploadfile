@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebadcd7e-47db-4b01-ba37-4a5edd2ea84b" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p9B6xz4MNeGhwZP6tOBoRGYY5S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebadcd7e-47db-4b01-ba37-4a5edd2ea84b" name="默认更改列表" comment="" />
+      <created>1614585253648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614585253648</updated>
+      <workItem from="1614585254815" duration="1934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="745" y="239" key="NewPhpClassDialog" timestamp="1614586871387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="745" y="239" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614586871387" />
+    <state x="775" y="442" key="NewPhpFileDialog" timestamp="1614586862567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614586862567" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614586511496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614586511496" />
+  </component>
+</project>
