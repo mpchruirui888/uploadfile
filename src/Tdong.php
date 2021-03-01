@@ -16,6 +16,6 @@ class Tdong
 
     public function demo_2()
     {
-        return "demo1";
+        return "demo2";
     }
 }
