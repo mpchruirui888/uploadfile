@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Guanguans\\": "src/"
+            "Mpchruirui888\\": "src/"
         }
     }
 }
